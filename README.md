@@ -1,7 +1,7 @@
 # Experiment-2--Implementation-of-Perceptron
 ## AIM:
-
 To implement a perceptron for classification using Python
+~~~
 
 EQUIPMENTS REQUIRED:
 Hardware – PCs
@@ -21,7 +21,7 @@ f(x) maps the input features  ‘x’  vector to a scalar value, shifted by a bi
 A threshold function, usually Heaviside or sign functions, maps the scalar value to a binary output:
 
 Indeed if the neuron output is exactly zero it cannot be assumed that the sample belongs to the first sample since it lies on the boundary between the two classes. Nonetheless for the sake of simplicity,ignore this situation.
-
+~~~
 
 ## ALGORITHM:
 Importing the libraries
